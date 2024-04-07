@@ -1,4 +1,7 @@
 # spring-microservices
+Database: MySql
+Java: 17
+
 
 This Repo contains following projects
 1. Quiz App Monotlithic
